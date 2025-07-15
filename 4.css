@@ -1,0 +1,16 @@
+.img{
+    border-radius: 50%;
+    height: 150px;
+    width: 180px; 
+}
+.c-center{
+    font-size:medium;
+    font-style:normal;
+    text-align: center;
+    background-color:#CECECE;
+}
+.c-left{
+    font-size: medium;
+    text-align: left;
+    background-color:#CECECE;
+}
